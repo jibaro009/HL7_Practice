@@ -7,3 +7,5 @@ for item in my_list:
     print item
 
 print my_list
+
+new_list = my_list
